@@ -1,12 +1,10 @@
-# vite React TypeScript tailwindcss starter
+# vite React TypeScript tailwindcss React-admin starter
 
-Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
+Template for vite, React + tailwindcss + TypeScript + React-admin projects with some tools preconfigured.
 
 ## About
 
-Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
-
-![Screenshot](assets/screenshot.png)
+Template for vite, React + tailwindcss + TypeScript + React-admin projects with some tools preconfigured.
 
 ### Libraries
 
@@ -16,6 +14,7 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
   - [tailwindcss forms plugin](https://tailwindcss-forms.vercel.app/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [vite](https://vitejs.dev/)
+- [react-admin](https://github.com/marmelab/react-admin)
 
 ### Tools
 
@@ -26,12 +25,11 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
 - [husky](https://typicode.github.io/husky/#/)
 - [Prettier](https://prettier.io/)
 - [VS Code settings](https://code.visualstudio.com/)
+- [json-server](https://github.com/typicode/json-server) deploy on port:4005 type:`yarn rundb`
 
 ## Usage
 
 Create a new project from this template by clicking the "Use this template" button:
-
-![](assets/template-usage.png)
 
 ```bash
 yarn

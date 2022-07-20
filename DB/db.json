@@ -1,0 +1,40 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "applyId": "4252",
+      "patientId": "1231",
+      "checkId": "262235",
+      "name": "李四",
+      "checkType": "ECG",
+      "checkTime": "2020-3-3 23:12:12",
+      "checkLocation": "检查位置2",
+      "applyDoc": "申请医生1",
+      "checkSys": "检查系统2",
+      "checkGov": "检查机构2",
+      "heardImg": "dist/img/xindian4.jpg",
+      "sex": "男",
+      "age": "12",
+      "room": "403",
+      "bedNum": "A"
+    },
+    {
+      "id": 2,
+      "applyId": "2521632",
+      "patientId": "6356324",
+      "checkId": "253231",
+      "name": "赵丽丽",
+      "checkType": "ECG",
+      "checkTime": "2020-3-3 23:12:12",
+      "checkLocation": "检查位置3",
+      "applyDoc": "申请医生3",
+      "checkSys": "检查系统3",
+      "checkGov": "检查机构3",
+      "heardImg": "dist/img/xindian4.jpg",
+      "sex": "男",
+      "age": "12",
+      "room": "403",
+      "bedNum": "A"
+    }
+  ]
+}
